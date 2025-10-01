@@ -19,3 +19,6 @@ Cara download dataset di Colab:
 ```python
 !wget https://cmp.felk.cvut.cz/~tylecr1/facade/CMP_facade_DB_base.zip
 !unzip CMP_facade_DB_base.zip -d data/facades
+
+[Uploading untitled19 (1).py…]()
+https://colab.research.google.com/drive/1-ebCZMO0Oqq6Qiqvyd4TYBlPgUi_rUMu?usp=sharing
